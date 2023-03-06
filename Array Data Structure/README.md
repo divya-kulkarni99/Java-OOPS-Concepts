@@ -8,9 +8,9 @@
 
     a. Use data structure to hold 20 students in a Session, some are part-time, some are full-time
 
-       1. Create public methods to calculate average quiz scores per student for the whole class
+           1. Create public methods to calculate average quiz scores per student for the whole class
 
-       2. Create public method to print the list of quiz scores in ascending order for one session
+           2. Create public method to print the list of quiz scores in ascending order for one session
 
     b. Create public method to print names of part-time students
 
