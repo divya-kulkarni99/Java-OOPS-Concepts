@@ -12,4 +12,4 @@
 
     b. Develop GUI to allow users to download converted images
 
-3. Optional (no extra credits): Allow user to apply various filters (color tints, black-and-white, etc.) to image(s)
+3. Allow user to apply various filters (color tints, black-and-white, etc.) to image(s)
